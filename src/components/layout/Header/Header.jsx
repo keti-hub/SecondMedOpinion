@@ -5,7 +5,7 @@ import Switch from "@mui/material/Switch";
 import FormControlLabel from "@mui/material/FormControlLabel";
 import styles from "./Header.module.scss";
 
-import WhiteLogo from "../../../assets/white-logo.png";
+// import WhiteLogo from "../../../assets/white-logo.png";s
 import BlackLogo from "../../../assets/black-logo.png";
 import Fb from "../../../assets/fb.png";
 import Instagram from "../../../assets/insta.png";

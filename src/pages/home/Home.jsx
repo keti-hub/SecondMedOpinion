@@ -184,6 +184,7 @@ const Home = () => {
       <div className={styles.section3}>
         <h3>How to navigate!</h3>
         <iframe
+          title="iframe"
           className={styles.video}
           frameborder="0"
           scrolling="no"
@@ -193,7 +194,7 @@ const Home = () => {
           height="443"
           type="text/html"
           src="https://www.youtube.com/embed/JnXcBj7dJQk?autoplay=0&fs=1&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=https://youtubeembedcode.com"
-        ></iframe>
+        />
       </div>
       <hr />
 
